@@ -1,4 +1,4 @@
-** GeoJob ** 
+ GeoJob  
 =============
 > Facilitador de encotros e pequenos serviços
 >
